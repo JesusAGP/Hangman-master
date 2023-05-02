@@ -1,6 +1,5 @@
 # Hangman
 
-![tutorial thumbnail](./src/_thumbnail.jpg)
 
 Juego del Ahorcado, en donde tienes que adivinar las letras de una palabra. creado con React y TypeScript.
 
